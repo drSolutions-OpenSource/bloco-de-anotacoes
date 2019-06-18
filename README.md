@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/diegomrodrigues/bloco-de-anotacoes.svg?branch=master)](https://travis-ci.org/diegomrodrigues/bloco-de-anotacoes)
+
 # Bloco de Anotações
 
 Este software é um editor de anotações para arquivos de texto, ou arquivos de código fonte de programação.
